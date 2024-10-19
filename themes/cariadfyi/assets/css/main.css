@@ -7,7 +7,7 @@ body {
   font-family: system-ui, sans-serif;
   line-height: 1.2;
   margin-inline: auto;
-  max-width: 36em;
+  max-width: 34em;
   padding-inline: 1em;
 }
 
@@ -31,16 +31,18 @@ h1 a {
   font-size: 1em;
 }
 
-#single {
-  line-height: 1.5;
-}
-
 #single h1 {
   font-size: 2.5em;
 }
 
 #single h2 {
   font-size: 1.5em;
+  margin-top: 2em;
+}
+
+#single p {
+  line-height: 1.5;
+  margin-bottom: 1.5em;
 }
 
 #site-title {
@@ -51,4 +53,8 @@ h1 a {
 
 #site-title a {
   color: var(--text-color);
+}
+
+footer {
+  margin-top: 8em;
 }

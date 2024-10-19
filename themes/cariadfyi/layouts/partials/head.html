@@ -5,9 +5,8 @@
   {{- if .IsHome }}
     {{ site.Title }}
   {{ else }}
-    {{ printf "%s | %s" (.Date | time.Format ":date_full") site.Title }}
+    {{ printf "%s • %s" (.Date | time.Format ":date_full") site.Title }}
   {{ end -}}
 </title>
 
 {{ partialCached "head/css.html" . }}
-{{ partialCached "head/js.html" . }}
