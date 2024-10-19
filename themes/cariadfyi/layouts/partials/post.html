@@ -1,9 +1,13 @@
+{{ $title := .Date | time.Format ":date_full" }}
+
 <article>
   <header>
-    <h1>{{ .Date | time.Format ":date_full" }}</h1>
-    <div class="permalink">
-      <a href="{{ .RelPermalink }}">{{ .Permalink }}</a>
-    </div>
+    <h1>
+      <a
+        href="{{ .RelPermalink }}"
+        title="Permalink to {{ $title }}"
+      >{{ $title }}</a>
+    </h1>
   </header>
-  {{ .Summary }}
+  {{ .Content }}
 </article>
