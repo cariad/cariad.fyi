@@ -1,7 +1,7 @@
 body {
   color: #222;
   font-family: system-ui, sans-serif;
-  line-height: 1.5;
+  line-height: 1.2;
   margin-inline: auto;
   max-width: 36em;
   padding-inline: 1em;
@@ -14,4 +14,15 @@ a {
 
 h1 a {
   text-decoration: none;
+}
+
+.post-list {
+  display: flex;
+  flex-flow: column nowrap;
+  row-gap: 1em;
+}
+
+.post-list article > * {
+  display: inline;
+  font-size: 1em;
 }
