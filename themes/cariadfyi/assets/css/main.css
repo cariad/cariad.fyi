@@ -1,22 +1,29 @@
 body {
   color: #222;
-  font-family: sans-serif;
+  font-family: system-ui, sans-serif;
   line-height: 1.5;
-  margin: 1rem;
-  max-width: 768px;
-}
-
-header {
-  border-bottom: 1px solid #222;
-  margin-bottom: 1rem;
-}
-
-footer {
-  border-top: 1px solid #222;
-  margin-top: 1rem;
+  margin-inline: auto;
+  max-width: 40em;
+  padding-inline: 1em;
 }
 
 a {
-  color: #00e;
   text-decoration: none;
+}
+
+article header {
+  align-items: baseline;
+  border-bottom: 1px solid lightgray;
+  column-gap: 1em;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+
+article h1 {
+  margin: 0;
+}
+
+.permalink {
+  font-size: 0.9em;
 }

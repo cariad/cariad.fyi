@@ -1,0 +1,9 @@
+<article>
+  <header>
+    <h1>{{ .Date | time.Format ":date_full" }}</h1>
+    <div class="permalink">
+      <a href="{{ .RelPermalink }}">{{ .Permalink }}</a>
+    </div>
+  </header>
+  {{ .Summary }}
+</article>
