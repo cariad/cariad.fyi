@@ -2,3 +2,6 @@ baseURL = 'https://www.cariad.fyi/'
 languageCode = 'en-gb'
 theme = 'cariadfyi'
 title = 'cariad.fyi'
+
+[permalinks]
+  posts = '/:year-:month-:day/'
