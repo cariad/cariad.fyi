@@ -5,4 +5,22 @@
     </header>
     {{ .Content }}
   </article>
+
+  <nav id="single-nav">
+    {{ with .Prev }}
+      <div id="single-nav-previous">
+        <a href="{{ .RelPermalink }}">&laquo;
+          {{ .Date | time.Format ":date_full" }}
+        </a>
+      </div>
+    {{ end }}
+    {{ with .Next }}
+      <div id="single-nav-next">
+        <a href="{{ .RelPermalink }}">
+          {{ .Date | time.Format ":date_full" }} &raquo;
+        </a>
+      </div>
+    {{ end }}
+  </nav>
+
 {{ end }}

@@ -60,7 +60,9 @@ footer {
 }
 
 figure {
-  margin: 0;
+  margin-inline: 0;
+  margin-bottom: 40px;
+  margin-top: 0;
 }
 
 img {
@@ -73,4 +75,13 @@ figcaption {
   color: rgb(79, 79, 79);
   font-size: 0.8em;
   text-align: center;
+}
+
+#single-nav {
+  font-weight: 500;
+  margin-top: 80px;
+}
+
+#single-nav-next {
+  text-align: right;
 }
