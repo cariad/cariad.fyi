@@ -7,7 +7,7 @@ body {
   font-family: system-ui, sans-serif;
   line-height: 1.2;
   margin-inline: auto;
-  max-width: 34em;
+  max-width: 550px;
   padding-inline: 1em;
 }
 
@@ -57,4 +57,20 @@ h1 a {
 
 footer {
   margin-top: 8em;
+}
+
+figure {
+  margin: 0;
+}
+
+img {
+  border-radius: 8px;
+  height: auto;
+  max-width: 100%;
+}
+
+figcaption {
+  color: rgb(79, 79, 79);
+  font-size: 0.8em;
+  text-align: center;
 }
