@@ -8,6 +8,13 @@ resources:
       resample_format: Lanczos webp photo
     src: dyson-farming-2024-10-23.jpg
 
+  - name: exmouth-beach-2024-11-01
+    params:
+      alt: A photograph of Exmouth Beach early in the morning. The street lights are on and illuminating the fog that obscures the distance.
+      caption: Exmouth Beach (Friday 1st November, 2024)
+      resample_format: Lanczos webp photo
+    src: exmouth-beach-2024-11-01.jpg
+
   - name: exmouth-lifeboat-station-2024-10-23
     params:
       alt: A photograph of Exmouth Lifeboat Station. It's wrapped in scaffolding and sheets while the roof is replaced.
@@ -35,6 +42,13 @@ resources:
       caption: Tearing out the old Mickey's Beach Bar and Restaurant (Wednesday 23rd October, 2024)
       resample_format: Lanczos webp photo
     src: tearing-out-mickeys-2024-10-23.jpg
+
+  - name: thats-not-swamp-gas-2024-10
+    params:
+      alt: The album cover for That's Not Swamp Gas. A forested area with three flowing lights in the night sky.
+      caption: That's Not Swamp Gas, for the Spooky Game Jam (October 2024)
+      resample_format: Lanczos webp drawing
+    src: thats-not-swamp-gas-2024-10.png
 
   - name: the-earth-is-flat-2024-10-23
     params:
