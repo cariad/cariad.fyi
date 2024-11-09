@@ -29,12 +29,26 @@ resources:
       resample_format: Lanczos webp photo
     src: me-on-iona-travel-blog-jamie.png
 
+  - name: shiraz-rose-2024-11
+    params:
+      alt: A photograph of an empty bottle of Co-op Fairtrade Shiraz Rosé wine.
+      caption: Co-op Fairtrade Shiraz Rosé (November 2024)
+      resample_format: Lanczos webp photo
+    src: shiraz-rose-2024-11.jpg
+
   - name: south-west-coast-path-2024-10-23
     params:
       alt: A photograph of the Exe Estuary and fields on the South West Coast Path near Exmouth.
       caption: The South West Coast Path near Exmouth (Wednesday 23rd October, 2024)
       resample_format: Lanczos webp photo
     src: south-west-coast-path-2024-10-23.jpg
+
+  - name: squirrel-2024-11-04
+    params:
+      alt: A photograph of a grey squirrel. It's poised over a stone wall, and looks like it's about to jump.
+      caption: Squirl (Monday 4th November, 2024)
+      resample_format: Lanczos webp photo
+    src: squirrel-2024-11-04.jpg
 
   - name: tearing-out-mickeys-2024-10-23
     params:
