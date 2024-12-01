@@ -71,6 +71,118 @@ resources:
       resample_format: Lanczos webp picture
     src: 2024-11-24-seven-eighty-five.png
 
+  - name: 2024-11-26-abys
+    params:
+      alt: A photograph of Aby's, a restaurant on Exmouth seafront.
+      caption: Aby's (Tuesday 26th November, 2024)
+      resample_format: Lanczos webp photo
+    src: 2024-11-26-abys.jpg
+
+  - name: 2024-11-26-exmouth-beach
+    params:
+      alt: A photograph of Exmouth beach early in the morning.
+      caption: Exmouth beach (Tuesday 26th November, 2024)
+      resample_format: Lanczos webp photo
+    src: 2024-11-26-exmouth-beach.jpg
+
+  - name: 2024-11-26-exmouth-war-memorial
+    params:
+      alt: A photograph of Exmouth's war memorial.
+      caption: Exmouth's war memorial (Tuesday 26th November, 2024)
+      resample_format: Lanczos webp photo
+    src: 2024-11-26-exmouth-war-memorial.jpg
+
+  - name: 2024-11-26-footpath-closed
+    params:
+      alt: A photograph of Sideshore on Exmouth seafront. The footpath is fenced across with a crane in the background. A sign reads "footpath closed".
+      caption: The footpath is closed at both ends (Tuesday 26th November, 2024)
+      resample_format: Lanczos webp photo
+    src: 2024-11-26-footpath-closed.jpg
+
+  - name: 2024-11-26-hill
+    params:
+      alt: A photograph of a road sign obscured by plants. Only the final word "Hill" is visible.
+      caption: … Hill (Tuesday 26th November, 2024)
+      resample_format: Lanczos webp photo
+    src: 2024-11-26-hill.jpg
+
+  - name: 2024-11-26-manor-gardens
+    params:
+      alt: A photograph of a gardener blowing away leaves in Manor Gardens.
+      caption: Manor Gardens (Tuesday 26th November, 2024)
+      resample_format: Lanczos webp photo
+    src: 2024-11-26-manor-gardens.jpg
+
+  - name: 2024-11-26-not-mickeys
+    params:
+      alt: A photograph of the restaurant formerly known as Mickey's on Exmouth seafront.
+      caption: Not-Mickey's (Tuesday 26th November, 2024)
+      resample_format: Lanczos webp photo
+    src: 2024-11-26-not-mickeys.jpg
+
+  - name: 2024-11-26-pavilion
+    params:
+      alt: A photograph of The Pavilion on Exmouth seafront.
+      caption: The Pavilion (Tuesday 26th November, 2024)
+      resample_format: Lanczos webp photo
+    src: 2024-11-26-pavilion.jpg
+
+  - name: 2024-11-26-pavilion-field
+    params:
+      alt: A photograph of the field outside The Pavilion on Exmouth seafront.
+      caption: Outside The Pavilion (Tuesday 26th November, 2024)
+      resample_format: Lanczos webp photo
+    src: 2024-11-26-pavilion-field.jpg
+
+  - name: 2024-11-26-pigeons
+    params:
+      alt: A photograph of pigeons in palm trees on Exmouth seafront.
+      caption: Pigeons (Tuesday 26th November, 2024)
+      resample_format: Lanczos webp photo
+    src: 2024-11-26-pigeons.jpg
+
+  - name: 2024-11-26-seafront-closed
+    params:
+      alt: A photograph of Exmouth seafront with barriers across the footpath and signs indicating it's closed.
+      caption: Exmouth seafront (Tuesday 26th November, 2024)
+      resample_format: Lanczos webp photo
+    src: 2024-11-26-seafront-closed.jpg
+
+  - name: 2024-11-26-seafront-closed-signs
+    params:
+      alt: A photograph of Exmouth seafront with barriers across the footpath. Signs direct pedestrians to cross the road and say "footpath closed".
+      caption: Footpath closed (Tuesday 26th November, 2024)
+      resample_format: Lanczos webp photo
+    src: 2024-11-26-seafront-closed-signs.jpg
+
+  - name: 2024-11-26-the-mallow
+    params:
+      alt: A photograph of The Mallow at Sideshore on Exmouth seafront. A sign reads "The Mallow @ Sideshore" and "Blue badge holders must pay and display" with The Mallow (a field) behind it. The furthest area of The Mallow is fenced off for the sea wall replacement works.
+      caption: The Mallow and sea wall replacement (Tuesday 26th November, 2024)
+      resample_format: Lanczos webp photo
+    src: 2024-11-26-the-mallow.jpg
+
+  - name: 2024-11-26-unpacking-sea-wall
+    params:
+      alt: A photograph of Sideshore on Exmouth seafront. Workers in high-visibility jackets and a crane are unpacking the components of the replacement sea wall.
+      caption: Preparing the replacement sea wall (Tuesday 26th November, 2024)
+      resample_format: Lanczos webp photo
+    src: 2024-11-26-unpacking-sea-wall.jpg
+
+  - name: 2024-11-27-black-bird
+    params:
+      alt: A photograph of a black bird perched on Exmouth's sea wall.
+      caption: Exmouth beach (Wednesday 27th November, 2024)
+      resample_format: Lanczos webp photo
+    src: 2024-11-27-black-bird.jpg
+
+  - name: 2024-11-27-black-bird-boat
+    params:
+      alt: A photograph of a black bird perched on Exmouth's sea wall. A fishing boat sails away in the background.
+      caption: Exmouth beach (Wednesday 27th November, 2024)
+      resample_format: Lanczos webp photo
+    src: 2024-11-27-black-bird-boat.jpg
+
   - name: dyson-farming-2024-10-23
     params:
       alt: A photograph of a punnet of strawberries. The box is branded with the 'Dyson Farming' logo.
