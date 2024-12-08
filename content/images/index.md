@@ -183,6 +183,55 @@ resources:
       resample_format: Lanczos webp photo
     src: 2024-11-27-black-bird-boat.jpg
 
+  - name: 2024-12-02-meshtastic-area
+    params:
+      alt: A map showing Meshtastic nodes north and south of Exeter in Devon, United Kingdom. There are three groups of nodes in Torquay, Exmouth and Silverton.
+      caption: Meshtastic nodes north and south of Exeter (2nd December, 2024)
+      resample_format: Lanczos webp drawing
+    src: 2024-12-02-meshtastic-area.png
+
+  - name: 2024-12-02-meshtastic-me
+    params:
+      alt: A map showing Meshtastic nodes in Exmouth, Devon.
+      caption: Meshtastic nodes in Exmouth, Devon (2nd December, 2024)
+      resample_format: Lanczos webp drawing
+    src: 2024-12-02-meshtastic-me.png
+
+  - name: 2024-12-04-love
+    params:
+      alt: A photograph of a completed cross stitch. From top to bottom are rows of red, orange, yellow, green and blue hearts. The word “love” is printed in purple in the centre.
+      caption: Cross stitching (Wednesday 4th December, 2024)
+      resample_format: Lanczos webp photo
+    src: 2024-12-04-love.jpg
+
+  - name: 2024-12-04-love-desk
+    params:
+      alt: A photograph of a desk set-up for cross stitching. At the top-left is a pattern of coloured hearts with “love” printed in the centre. At the bottom-left is the Hobbycraft box that the kit arrived in. At the top-right is a coffee-stained Wonder Woman mug. At the bottom-right is the complete cross stitch.
+      caption: Cross stitching (Wednesday 4th December, 2024)
+      resample_format: Lanczos webp photo
+    src: 2024-12-04-love-desk.jpg
+
+  - name: 2024-12-06-reindeer-kit
+    params:
+      alt: A photograph of a Hobbycraft cross stitch kit. The final image is of a reindeer with Christmas ornaments hanging from their antlers.
+      caption: A reindeer Hobbycraft kit (Friday 6th December, 2024)
+      resample_format: Lanczos webp photo
+    src: 2024-12-06-reindeer-kit.jpg
+
+  - name: 2024-12-06-severe-alert
+    params:
+      alt: "A screenshot of an iPhone showing a severe alert issued by the UK Government: A RED warning for wind has been issued in your area. Extremely strong winds associated with Storm Darragh are expected to cause significant disruption from 3.00am on Saturday 07 December 2024. Strong winds can cause flying debris, falling trees and large waves around coastal areas, all of which can present a danger to life. Stay indoors if you can. It is not safe to drive in these conditions. The storm may damage infrastructure causing power cuts and disruption to mobile phone coverage. Consider gathering torches, batteries, a mobile phone power pack and other essential items you already have at home. Stay up to date with the weather forecast for your area and follow advice from emergency services, network operators and local authorities. For more information search online for 'gov.uk/alerts' or Met Office warnings and advice."
+      caption: Our first actual government alert (Friday 6th December, 2024)
+      resample_format: Lanczos webp drawing
+    src: 2024-12-06-severe-alert.png
+
+  - name: 2024-12-08-reindeer-stitch
+    params:
+      alt: A photograph of a cross stitch in progress. The centre of the piece has a handful of black and brown patterns.
+      caption: The stitch so far (Sunday 8th December, 2024)
+      resample_format: Lanczos webp photo
+    src: 2024-12-08-reindeer-stitch.jpg
+
   - name: dyson-farming-2024-10-23
     params:
       alt: A photograph of a punnet of strawberries. The box is branded with the 'Dyson Farming' logo.

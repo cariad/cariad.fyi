@@ -87,3 +87,9 @@ figcaption {
 #single-nav-next {
   text-align: right;
 }
+
+blockquote {
+  margin-left: 0;
+  padding-left: 10px;
+  border-left: 6px solid rgb(113, 220, 222);
+}
