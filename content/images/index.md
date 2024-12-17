@@ -225,12 +225,26 @@ resources:
       resample_format: Lanczos webp drawing
     src: 2024-12-06-severe-alert.png
 
+  - name: 2024-12-08-cats
+    params:
+      alt: A photograph of two cat-shaped biscuits. The cat on the left is smiling and wearing a green-yellow scarf. The cat on the right has a red outline with yellow eyes and a demonic yellow smile.
+      caption: A happy cat and a Cursed Cat Alastor (Sunday 8th December, 2024)
+      resample_format: Lanczos webp photo
+    src: 2024-12-08-cats.jpg
+
   - name: 2024-12-08-reindeer-stitch
     params:
       alt: A photograph of a cross stitch in progress. The centre of the piece has a handful of black and brown patterns.
       caption: The stitch so far (Sunday 8th December, 2024)
       resample_format: Lanczos webp photo
     src: 2024-12-08-reindeer-stitch.jpg
+
+  - name: 2024-12-17-page-sizes
+    params:
+      alt: A diagram of page sizes from A4+ to A7. A4+ is 225×315 mm. B5 is 178×254 mm. A5 is 145×210 mm. B6+ is 125×190 mm. A6 is 90×150 mm. A7 is 70×110 mm.
+      caption: LEUCHTTURM1917 page sizes (Tuesday 17th December, 2024)
+      resample_format: Lanczos webp photo
+    src: 2024-12-17-page-sizes.jpg
 
   - name: dyson-farming-2024-10-23
     params:
